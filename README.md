@@ -6,13 +6,13 @@ Here’s a professional and informative `README.md` file for your **Azure VMSS A
 
 ---
 
-# 🚀 Azure VM Scale Set with Auto-Scaling using Terraform
+## Azure VM Scale Set with Auto-Scaling using Terraform
 
 This project deploys an **Azure Virtual Machine Scale Set (VMSS)** using **Terraform**, with **auto-scaling enabled based on CPU usage**. It demonstrates how to configure scalable infrastructure in Azure using Infrastructure as Code (IaC) principles.
 
 ---
 
-## 📌 Features
+## Features
 
 * ✅ Deploys a VMSS with Ubuntu instances
 * ✅ Installs and runs **NGINX** on each instance
@@ -22,7 +22,7 @@ This project deploys an **Azure Virtual Machine Scale Set (VMSS)** using **Terra
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * [Terraform](https://www.terraform.io/)
 * [Microsoft Azure](https://azure.microsoft.com/)
@@ -36,7 +36,7 @@ This project deploys an **Azure Virtual Machine Scale Set (VMSS)** using **Terra
 
 ---
 
-## 🏗️ Infrastructure Diagram
+## Infrastructure Diagram
 
 ```txt
 +---------------------+
