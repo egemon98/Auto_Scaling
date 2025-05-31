@@ -140,5 +140,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Md Emdadul Gani
 💼 Cloud & Database Engineer
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) | 📧 [emdad@example.com](mailto:emdad@example.com)
+🌐 [LinkedIn](https://linkedin.com/in/md-emdadul-gani) | 📧 [Email](mailto:md.emdadulgani@gmail.com)
 
